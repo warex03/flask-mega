@@ -4,6 +4,9 @@
 # Installation
 
 ```bash
+# create venv
+python -m venv venv
+
 # activate virtual environment
 source venv/bin/activate
 
