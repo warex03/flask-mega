@@ -2,6 +2,7 @@
 .vscode
 
 # python files
+*.pyc
 venv/
 __pycache__/*
 app/__pycache__/*
